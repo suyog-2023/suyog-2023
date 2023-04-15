@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Learning new technologies like blockchain.<br>🤝 I’m looking for a job as a Developer.<br>🌱 I’m currently learning React.js.<br>💬 Ask me about Building a website.<br>⚡ Fun fact  - Web Developers know how to use Google. HAHA!!<br>
+🔭 I’m currently working on Learning new technologies.<br>🤝 I’m looking for a job as a Developer.<br>🌱 I’m currently learning React.js.<br>💬 Ask me about Building a website.<br>⚡ Fun fact  - Web Developers know how to use Google. HAHA!!<br>
 
 
 ## 🌐 Socials:
